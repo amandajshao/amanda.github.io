@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: ''
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -36,18 +36,18 @@ header:
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: true
+    show_search: false
     highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Jing Shao. Last updated Aug 30, 2022.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -61,8 +61,10 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: github-light
-    theme_dark: dracula
+    enable: true
+    extra_languages:
+      - r
+      - latex
   math:
     enable: false
   privacy_pack:
@@ -70,7 +72,7 @@ features:
   repository:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content
-    branch: main
+    branch: master
   avatar:
     gravatar: false
     shape: circle

@@ -3,15 +3,15 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseURL: 'https://example.com/' # Website URL
+title: Jing Shao (邵婧) # Website name
+baseURL: 'https://amandajshao.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
@@ -20,10 +20,10 @@ removePathAccents: true
 ############################
 
 module:
+  proxy: https://goproxy.cn
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
 
 ############################
@@ -70,6 +70,4 @@ related:
 security:
   _merge: deep
 sitemap:
-  _merge: deep
-minify:
   _merge: deep
