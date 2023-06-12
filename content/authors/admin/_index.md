@@ -61,16 +61,15 @@ email: 'amandashaojing@gmail.com'
 highlight_name: true
 ---
 
+<span style="color:red">**[News!]**</span> Jing Shao will join [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/) as a research scientist focusing on multi-modal foundation models and their applications. <span style="color:red">**We are hiring full-time researchers working together on this project. I am also looking for talented students targeted to Master or Ph.D. degree, as well as interns. Please drop me an email if you are interested.**</span>
 
-
-
- Jing Shao is a Research Director in [SenseTime Group Limited](https://www.sensetime.com). She is also an Adjunct Ph.D. Supervisor at the [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). She is a Co-PI of [S-Lab]() in [Nanyang Technological University](https://www.ntu.edu.sg/). She received her Ph.D. (2016) in Electronic Engineering from [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/english/index.html), supervised by [Prof. Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/), and work closely with [Prof. Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/index.html) and the [Multimedia Lab (MMLab)](http://mmlab.ie.cuhk.edu.hk/) led by [Prof. Xiaoou Tang](https://www.ie.cuhk.edu.hk/people/xotang.shtml). 
+She is currently a Research Director in [SenseTime Group Limited](https://www.sensetime.com), and an Adjunct Ph.D. Supervisor at the [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). She is a Co-PI of [S-Lab]() in [Nanyang Technological University](https://www.ntu.edu.sg/). She received her Ph.D. (2016) in Electronic Engineering from [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/english/index.html), supervised by [Prof. Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/), and work closely with [Prof. Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/index.html) and the [Multimedia Lab (MMLab)](http://mmlab.ie.cuhk.edu.hk/) led by [Prof. Xiaoou Tang](https://www.ie.cuhk.edu.hk/people/xotang.shtml). 
 
 Her research interests lies at the computer vision and multimedia, with focus on generating, perceiving, and understanding the 2D/3D visual world, for instance,
 
-- Generation/Recognition for Face, Body and Scene,
-- Vision and Language,
-- General Vision Representation, and *etc*.
+- Multimodal LLM,
+- General Vision Representation
+- Human-centric Understanding and Generation (Face, Body, Scene, and *etc*).
 
 She has published 40+ peer-reviewed articles (including 20 first/co-first author papers) in top-tier conferences and journals such as TPAMI, IJCV, ICML, ICLR, NeurIPS and CVPR, with 4700+ citations in Google Scholar. She serves as the reviewer of IJCV, T-PAMI, T-CSVT, T-MM, T-ITS, and CVIU, and reviewed CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, IJCAI, and ACM MM.
 

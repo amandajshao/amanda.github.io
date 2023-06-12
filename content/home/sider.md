@@ -15,6 +15,30 @@ design:
 
 content:
   slides:
+    - title: 'Dolphin: A General Video Interaction Platform Based on LLMs'
+      content: 'Dolphin is a general video interaction platform based on large language models. Our team is trying to build a smart chatbot for video understanding, processing and generation.'
+      align: left
+      background:
+        position: center
+        brightness: 0.5
+        media: sider/dolphin.png
+        fit: cover
+      link:
+        text: GitHub Repo
+        url: 'https://github.com/kaleido-lab/dolphin'
+
+    - title: 'LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark'
+      content: " (1) We present the **LAMM-Dataset** and **LAMM-Benchmark**, which cover almost all high-level vision tasks for 2D and 3D vision. (2) We demonstrate how to construct instruction-tuning datasets and benchmarks for MLLMs, which will enable future research on MLLMs to scale up and extend to other domains, tasks, and modalities faster. (3) We provide a primary but potential MLLM training framework optimized for modalities' extension."
+      align: left
+      background:
+        position: center
+        brightness: 0.5
+        media: sider/lamm.png
+        fit: cover
+      link:
+        text: GitHub Repo
+        url: 'https://github.com/OpenLAMM/LAMM'
+    
     - title: 'INTERN: A New Learning Paradigm Towards General Vision'
       content: "Our new learning paradigm, INTERN, aims to systematically solve bottlenecks in recent *scenario-specifc* vision intelligence systems. The model being trained by INTERN will develop strong generalizability towards various vision tasks."
       align: left

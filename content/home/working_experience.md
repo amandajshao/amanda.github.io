@@ -22,6 +22,10 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  # - title: Research Scientist
+  #   company: Shanghai Artificial Intelligence Laboratory
+  #   company_url: 'https://www.shlab.org.cn/'
+  #   company_logo: 
   - title: Research Director
     company: SenseTime Group Ltd.
     company_url: 'https://www.sensetime.com'
