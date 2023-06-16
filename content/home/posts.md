@@ -37,6 +37,9 @@ design:
   columns: '2'
 ---
 - **2023.06**: I will join [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/) as a research scientist focusing on multi-modal foundation models and their applications.  <span style="color:red">We are hiring full-time researchers working together on this project. I am also looking for talented students targeted to Master or Ph.D. degree, as well as interns. Please drop me an email if you are interested.</span>
+- **2023.06**: I gave a talk about Multi-Modal Large Language Models (MLLMs) at [VALSE 2023, Wuxi](http://valser.org/2023/#/), including the data, methodology, benchmark and platform. More details please check the [slides](../uploads/mllm_valse_2023_release_version.pdf).
+- **2023.03**: One paper accepted to [CVPR 2023](https://cvpr2023.thecvf.com/).
+- **2022.12**: One paper accepted to [NeurIPS 2022](https://nips.cc/Conferences/2022).
 - **2022.08**: We are organizing ECCV 2022 (2nd) [DeeperAction Challenge and Workshop](https://deeperaction.github.io/) on detailed video action understanding and anomaly recognition by introducing five new benchmarks.
 - **2022.08**: We are hosting ECCV 2022 [OmniBenchmark Challenge](https://zhangyuanhan-ai.github.io/OmniBenchmark/) on evaluation of pre-trained models.
 - **2022.07**: <span style="color:red">Winner</span> of [Challenge on RxR-Habitat Vision-and-Language Navigation Competition](https://ai.google.com/research/rxr/habitat).

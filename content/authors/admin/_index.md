@@ -67,9 +67,9 @@ She is currently a Research Director in [SenseTime Group Limited](https://www.se
 
 Her research interests lies at the computer vision and multimedia, with focus on generating, perceiving, and understanding the 2D/3D visual world, for instance,
 
-- Multimodal LLM,
+- Multimodal LLM
 - General Vision Representation
 - Human-centric Understanding and Generation (Face, Body, Scene, and *etc*).
 
-She has published 40+ peer-reviewed articles (including 20 first/co-first author papers) in top-tier conferences and journals such as TPAMI, IJCV, ICML, ICLR, NeurIPS and CVPR, with 4700+ citations in Google Scholar. She serves as the reviewer of IJCV, T-PAMI, T-CSVT, T-MM, T-ITS, and CVIU, and reviewed CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, IJCAI, and ACM MM.
+She has published 40+ peer-reviewed articles (including 20 first/co-first/corresponding author papers) in top-tier conferences and journals such as TPAMI, IJCV, ICML, ICLR, NeurIPS and CVPR, with 6200+ citations in Google Scholar. She serves as the reviewer of IJCV, T-PAMI, T-CSVT, T-MM, T-ITS, and CVIU, and reviewed CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, IJCAI, and ACM MM.
 
