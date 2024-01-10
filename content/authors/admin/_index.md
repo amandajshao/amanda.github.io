@@ -67,11 +67,11 @@ She has published 40+ peer-reviewed articles (including 20 first/co-first/corres
 
 <span style="color:red">**We are hiring Full-time Researchers/Interns working together on safety/robustness/explainablity of generative models and agents. I am also looking for talented students targeted to Master or Ph.D. degree. Please drop me an email if you are interested.**</span>
 
-# She is currently a Research Director in [SenseTime Group Limited](https://www.sensetime.com), and an Adjunct Ph.D. Supervisor at the [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). She is a Co-PI of [S-Lab]() in [Nanyang Technological University](https://www.ntu.edu.sg/). She received her Ph.D. (2016) in Electronic Engineering from [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/english/index.html), supervised by [Prof. Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/), and work closely with [Prof. Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/index.html) and the [Multimedia Lab (MMLab)](http://mmlab.ie.cuhk.edu.hk/) led by [Prof. Xiaoou Tang](https://www.ie.cuhk.edu.hk/people/xotang.shtml). 
+<!-- She is currently a Research Director in [SenseTime Group Limited](https://www.sensetime.com), and an Adjunct Ph.D. Supervisor at the [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). She is a Co-PI of [S-Lab]() in [Nanyang Technological University](https://www.ntu.edu.sg/). She received her Ph.D. (2016) in Electronic Engineering from [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/english/index.html), supervised by [Prof. Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/), and work closely with [Prof. Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/index.html) and the [Multimedia Lab (MMLab)](http://mmlab.ie.cuhk.edu.hk/) led by [Prof. Xiaoou Tang](https://www.ie.cuhk.edu.hk/people/xotang.shtml). -->
 
-# Her research interests lies at the computer vision and multimedia, with focus on generating, perceiving, and understanding the 2D/3D visual world, for instance,
+<!-- Her research interests lies at the computer vision and multimedia, with focus on generating, perceiving, and understanding the 2D/3D visual world, for instance, -->
 
-# - Multimodal LLM
-# - General Vision Representation
-# - Human-centric Understanding and Generation (Face, Body, Scene, and *etc*).
+<!-- - Multimodal LLM -->
+<!-- - General Vision Representation -->
+<!-- - Human-centric Understanding and Generation (Face, Body, Scene, and *etc*). -->
 
