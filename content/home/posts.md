@@ -46,10 +46,10 @@ design:
 - **2022.08**: We are hosting ECCV 2022 [OmniBenchmark Challenge](https://zhangyuanhan-ai.github.io/OmniBenchmark/) on evaluation of pre-trained models.
 - **2022.07**: <span style="color:red">Winner</span> of [Challenge on RxR-Habitat Vision-and-Language Navigation Competition](https://ai.google.com/research/rxr/habitat).
 - **2022.07**: Four papers accepted to [ECCV 2022](https://eccv2022.ecva.net/).
-# - **2022.04**: We have released [OpenGVLab (书生)](https://opengvlab.shlab.org.cn/).
+<!-- - **2022.04**: We have released [OpenGVLab (书生)](https://opengvlab.shlab.org.cn/). -->
 - **2022.04**: One paper accepted to [IJCAI 2022](https://ijcai-22.org/).
 - **2022.03**: Two papers accepted to [ACL 2022](https://www.2022.aclweb.org/).
-# - **2021.11**: <span style="color:red">A large-scale general vision paradigm [INTERN](https://opengvlab.shlab.org.cn/) is released on [Arxiv](https://arxiv.org/abs/2111.08687)</span>.
+<!-- - **2021.11**: <span style="color:red">A large-scale general vision paradigm [INTERN](https://opengvlab.shlab.org.cn/) is released on [Arxiv](https://arxiv.org/abs/2111.08687)</span>. -->
 - **2021.10**: We are organizing ICCV 2021 (2nd) [SenseHuman Workshop](https://sense-human.github.io/index_2021.html) on human sensing, understanding and synthesis.
 - **2021.10**: We are organizing ICCV 2021 (1st) [DeeperAction Workshop](https://deeperaction.github.io/) on detailed video action understanding by introducing three new benchmarks.
 - **2021.08**: One paper accepted to <span style="color:red">**IEEE T-PAMI**</span>.
