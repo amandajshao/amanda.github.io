@@ -51,17 +51,17 @@ content:
         text: GitHub Repo
         url: 'https://github.com/kaleido-lab/dolphin'
     
-    - title: 'INTERN: A New Learning Paradigm Towards General Vision'
-      content: "Our new learning paradigm, INTERN, aims to systematically solve bottlenecks in recent *scenario-specifc* vision intelligence systems. The model being trained by INTERN will develop strong generalizability towards various vision tasks."
-      align: left
-      background:
-        position: center
-        brightness: 0.5
-        media: sider/intern.png
-        fit: cover
-      link:
-        text: Read More
-        url: ../publication/shao-intern-2021
+#    - title: 'INTERN: A New Learning Paradigm Towards General Vision'
+#      content: "Our new learning paradigm, INTERN, aims to systematically solve bottlenecks in recent *scenario-specifc* vision intelligence systems. The model being trained by INTERN will develop strong generalizability towards various vision tasks."
+#      align: left
+#      background:
+#        position: center
+#        brightness: 0.5
+#        media: sider/intern.png
+#        fit: cover
+#      link:
+#        text: Read More
+#        url: ../publication/shao-intern-2021
       
     - title: 'Benchmarking Omni-Vision Representation through the Lens of Visual Realms'
       content: Omni-Realm Benchmark (OmniBenchmark) is a **diverse** (21 semantic realm-wise datasets) and **concise** (realm-wise datasets have no concepts overlapping) benchmark for evaluating pre-trained model generalization across semantic super-concepts/realms.
